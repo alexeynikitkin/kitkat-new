@@ -49,6 +49,7 @@ body {
     flex-direction: column;
     overflow: hidden;
     gap: 10px;
+    padding: 30px 0;
 }
 
 

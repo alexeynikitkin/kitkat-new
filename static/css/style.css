@@ -408,8 +408,8 @@ input[type="radio"]:checked {
 
 @media (max-width: 400px) {
     .mySwiper .slider-item__img {
-    max-height: 220px;
-    height: 220px;
+    max-height: 180px;
+    height: 180px;
     }
 }
 

@@ -1,34 +1,34 @@
 @font-face {
     font-family: "Franklin";
-    src: url("../fonts/Franklin Gothic ATF ExLt.otf") format("opentype");
+    src: url("../../fonts/Franklin Gothic ATF ExLt.otf") format("opentype");
     font-weight: 200; /* Extra Light */
     font-style: normal;
 }
 
 @font-face {
     font-family: "Franklin";
-    src: url("../fonts/Franklin Gothic ATF Lt.otf") format("opentype");
+    src: url("../../fonts/Franklin Gothic ATF Lt.otf") format("opentype");
     font-weight: 300; /* Light */
     font-style: normal;
 }
 
 @font-face {
     font-family: "Franklin";
-    src: url("../fonts/Franklin Gothic ATF.otf") format("opentype");
+    src: url("../../fonts/Franklin Gothic ATF.otf") format("opentype");
     font-weight: 400; /* Regular */
     font-style: normal;
 }
 
 @font-face {
     font-family: "Franklin";
-    src: url("../fonts/Franklin Gothic ATF Bold.otf") format("opentype");
+    src: url("../../fonts/Franklin Gothic ATF Bold.otf") format("opentype");
     font-weight: 700; /* Bold */
     font-style: normal;
 }
 
 @font-face {
     font-family: "Franklin";
-    src: url("../fonts/Franklin Gothic ATF Hvy.otf") format("opentype");
+    src: url("../../fonts/Franklin Gothic ATF Hvy.otf") format("opentype");
     font-weight: 900; /* Heavy */
     font-style: normal;
 }
@@ -55,7 +55,7 @@ body {
 
 
 .video-wrapper {
-    background-image: url(../img/kitkat.gif);
+    background-image: url(../../img/kitkat.gif);
     background-repeat: no-repeat;
     background-size: 100%;
     display: flex;
@@ -118,7 +118,7 @@ h5 {
     overflow: hidden;
 }
 .main-content.video {
-    background-image: url(../img/kitkat.gif);
+    background-image: url(../../img/kitkat.gif);
     background-repeat: no-repeat;
     background-size: 100%;
 }
@@ -324,7 +324,7 @@ input[type="radio"]:checked {
     max-width: 900px;
     /*height: 420px; !* <- якщо не вказати, іноді висота буде 0 *!*/
     box-sizing: border-box;
-    /*overflow: hidden;*/
+    overflow: hidden;
     position: relative;
     /*margin-left: -15px;*/
 }

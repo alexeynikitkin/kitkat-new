@@ -141,14 +141,16 @@ h5 {
 }
 
 .video-block h1 {
+    font-size: 65px;
 text-align: left;
     width: 220px;
     position: absolute;
-    bottom: -60px;
+    bottom: -30px;
     left: 50%;
     transform: translateX(-50%);
 }
 .video-block h2 {
+    font-size: 40px;
     text-align: left;
     position: absolute;
     width: 220px;

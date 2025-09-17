@@ -324,7 +324,7 @@ input[type="radio"]:checked {
     max-width: 900px;
     /*height: 420px; !* <- якщо не вказати, іноді висота буде 0 *!*/
     box-sizing: border-box;
-    overflow: hidden;
+    overflow-x: hidden;
     position: relative;
     /*margin-left: -15px;*/
 }

@@ -128,6 +128,7 @@ h5 {
     flex-direction: column;
     gap: 50px;
     align-items: center;
+    margin-bottom: -100px;
 }
 
 .video-block h1 {

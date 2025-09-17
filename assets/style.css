@@ -44,8 +44,8 @@ body {
     font-family: "Franklin", sans-serif;
     background-color: #C30000;
     color: #fff;
-    /*height: 100vh;*/
-    min-height: 100vh;
+    height: 100vh;
+    /*min-height: 100vh;*/
     display: flex;
     flex-direction: column;
     overflow: hidden;

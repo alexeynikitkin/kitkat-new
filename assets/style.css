@@ -45,7 +45,7 @@ body {
     background-color: #C30000;
     color: #fff;
     /*height: 100vh;*/
-    height: auto;
+    min-height: 100vh;
     display: flex;
     flex-direction: column;
     overflow: hidden;

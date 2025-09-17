@@ -38,13 +38,16 @@
     box-sizing: border-box;
 }
 
-
+html {
+    height: -webkit-fill-available;
+}
 
 body {
     font-family: "Franklin", sans-serif;
     background-color: #C30000;
     color: #fff;
-    height: 100vh;
+    min-height: 100vh;
+    min-height: -webkit-fill-available;
     /*min-height: 100vh;*/
     display: flex;
     flex-direction: column;

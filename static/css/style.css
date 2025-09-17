@@ -65,6 +65,7 @@ body {
     flex-direction: column;
     overflow: hidden;
     gap: 10px;
+    flex: 1;
 }
 
 img {

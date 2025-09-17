@@ -48,7 +48,7 @@ body {
     color: #fff;
     min-height: 100vh;
     min-height: -webkit-fill-available;
-    /*min-height: 100vh;*/
+
     display: flex;
     flex-direction: column;
     overflow: hidden;
@@ -135,7 +135,6 @@ h5 {
 }
 @media (max-width: 390px) {
     .video-block {
-
         gap: 0px;
         margin-bottom: 0px;
     }

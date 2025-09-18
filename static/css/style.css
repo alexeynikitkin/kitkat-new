@@ -255,7 +255,7 @@ a.button:hover {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 20px 24px 40px 24px;
+    padding: 20px 24px 20px 24px;
     gap: 16px;
 }
 a.nav-icon {

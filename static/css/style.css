@@ -140,6 +140,12 @@ h5 {
     position: relative;
 }
 
+.video-block img {
+    width: calc(100% + 50px);
+    height: auto;
+    margin-left: -25px;
+}
+
 .video-block h1 {
     font-size: 65px;
 text-align: left;
@@ -154,7 +160,7 @@ text-align: left;
     text-align: left;
     position: absolute;
     width: 220px;
-    top: 0;
+    top: 20px;
     left: 50%;
     transform: translateX(-50%);
 }
@@ -167,7 +173,7 @@ text-align: left;
     .video-block h2 {
         font-size: 36px;
         width: 150px;
-        top: 20px
+        top: 20px;
     }
 }
 
